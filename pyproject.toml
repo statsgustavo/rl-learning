@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "rl-learning"
+version = "0.1.0"
+description = "Exercises and demonstractions of concepts learned while studying reinforcement learning."
+authors = ["Luis Gustavo <stats.gustavo@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
